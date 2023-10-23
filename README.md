@@ -1,4 +1,4 @@
-# Aspiring data scientist
+## Aspiring data scientist
 Hi everyone 👋 
 My name is Martha Klenam Tsagli. I am an aspiring data scientist
 I wish to change the status quo by becoming the very first female data scientist in my family. I hope to build myself amongst a resillient community.
