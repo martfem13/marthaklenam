@@ -1,2 +1,2 @@
-# marthaklenam
-A bit of me!
+# Aspiring data scientist
+Hi everyone 👋 
